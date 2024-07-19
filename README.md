@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me link:[https://www.linkedin.com/in/syedwahajalishah/]
-- ⚡ Fun fact: I'm also doing Automotive Engineering
+- ⚡ Fun fact: Print('None')
 
 <!---
 Syed-Wahaj-Ali/Syed-Wahaj-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
