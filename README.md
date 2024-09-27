@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syed-Wahaj-Ali
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me link:[https://www.linkedin.com/in/syedwahajalishah/]
