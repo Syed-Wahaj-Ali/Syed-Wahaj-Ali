@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed-Wahaj-Ali
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on LinkedIn
+- 🌱 I’m currently working as an AI Automation Engineer @ RobustCraft
+- 💞️ Collaborate with me on LinkedIn
 - 📫 How to reach me link:[https://www.linkedin.com/in/syedwahajalishah/]
 - ⚡ Fun fact: Print('None')
 
